@@ -48,3 +48,33 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# EcoNomics 🌍💸 – Financial Literacy Simulation Game
+
+EcoNomics is a fun and educational mobile app built with React Native to help users understand personal finance through roleplaying and decision-making.
+
+## 🌟 Features
+
+- 🎭 Avatar Selection
+- 🧮 Enter Monthly Spending
+- 🎮 Interactive Finance Game (Save or Spend)
+- 📊 Dashboard with Spending Summary
+- 💾 Data saved locally via AsyncStorage
+- 🌙 Clean UI with smooth navigation
+
+## 🚀 Tech Stack
+
+- React Native
+- Expo Router
+- AsyncStorage
+- TypeScript (optional, default JavaScript)
+- Figma (for UI design)
+
+## 📱 Screens
+
+1. Welcome Screen  
+2. Enter Name & Spending  
+3. Choose Avatar  
+4. Game Simulation  
+5. Dashboard Summary  
+
